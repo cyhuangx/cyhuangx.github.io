@@ -67,6 +67,6 @@ email: ''
 highlight_name: true
 ---
 
-Chenyang Huang is a graduate student at the State Key Laboratory of Ocean Engineering, Shanghai Jiao Tong University. He is now working on uncovering Lagrangian coherent structures (LCSs) in complex flows through direct numerical simulation (DNS) to explore the underlying physical mechanism. He has a strong background in mathematics, fluid mechanics and numerical methods.
+Chenyang Huang is a graduate student at the [State Key Laboratory of Ocean Engineering](https://oe.sjtu.edu.cn/EN/), Shanghai Jiao Tong University. He has a strong background in mathematics, fluid mechanics and numerical methods. He is now working on uncovering Lagrangian coherent structures (LCSs) in complex flows through direct numerical simulation (DNS) to explore the underlying physical mechanism.
 
 {{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/cv_chenyang_huang_sjtu.pdf" "newtab" >}}CV{{< /staticref >}}.
