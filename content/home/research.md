@@ -34,7 +34,7 @@ experience:
         
         * Performed direct numerical simulation of flow past a backward-facing step in a duct using OpenFOAM
         * Uncovered the underlying flow structures by complementary qualitative and quantitative LCS analyses
-        * Investigated the interaction between hyperbolic and elliptic structures
+        * Investigated the interaction between hyperbolic and elliptic structures<a href="https://www.flaticon.com/free-icons/c-" title="">See animation</a>
     external_link: ''
 
   - title: Immersed Boundary Method and Its Applications

@@ -48,7 +48,7 @@ social:
     link: https://scholar.google.com/citations?user=eZL9gc0AAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/cyhuang514
 #  - icon: linkedin
 #    icon_pack: fab
 #    link: https://www.linkedin.com/
@@ -67,6 +67,6 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Chenyang Huang is a graduate student at the State Key Laboratory of Ocean Engineering, Shanghai Jiao Tong University. He is now working on uncovering Lagrangian coherent structures (LCSs) in complex flows through direct numerical simulation (DNS) to explore the underlying physical mechanism. He has a strong background in mathematics, fluid mechanics and numerical methods.
 
-<!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_chenyang_huang_sjtu.pdf" "newtab" >}}resumé{{< /staticref >}}.-->
+{{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/cv_chenyang_huang_sjtu.pdf" "newtab" >}}CV{{< /staticref >}}.

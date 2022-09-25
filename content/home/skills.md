@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Technical Skills
 subtitle:
 
 # Showcase personal skills or business features.
@@ -17,17 +17,26 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 90%
-    icon: r-project
+    icon: m
     icon_pack: fab
-    name: R
-  - description: 100%
-    icon: chart-line
+    name: MATLAB
+  - description: 70%
+    icon: c
+    icon_pack: fa
+    name: C++
+  - description: 70%
+    icon: linux
+    icon_pack: fab
+    name: Linux
+  - description: 70%
+    icon: code
     icon_pack: fas
-    name: Statistics
-  - description: 10%
-    icon: camera-retro
-    icon_pack: fas
-    name: Photography
+    name: OpenFOAM
+  - description: 50%
+    icon: github
+    icon_pack: fab
+    name: <a href="https://ibamr.github.io/">IBAMR</a>
+    link: "https://ibamr.github.io/"
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
@@ -38,8 +47,8 @@ feature:
 # Place your custom SVG icon in `assets/media/icons/`.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
 # For example, reference `assets/media/icons/xyz.svg` as `icon: 'xyz'`
-#- icon: "your-custom-icon-name"
-#  icon_pack: "custom"
-#  name: "Surfing"
-#  description: "90%"
+#  - icon: "C++"
+#    icon_pack: "custom"
+#    name: "Surfing"
+#    description: "90%"
 ---
