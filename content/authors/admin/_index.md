@@ -21,6 +21,7 @@ interests:
   - Fluid Mechanics
   - Computational Fluid Dynamics
   - Lagrangian Coherent Structures
+  - Nonlinear Dynamics
 
 # Education to show in About widget
 education:
