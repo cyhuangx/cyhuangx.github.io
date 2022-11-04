@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biological Swimming | Chenyang Huang</title><link>https://cyhuang514.github.io/tag/biological-swimming/</link><atom:link href="https://cyhuang514.github.io/tag/biological-swimming/index.xml" rel="self" type="application/rss+xml"/><description>Biological Swimming</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><image><url>https://cyhuang514.github.io/media/icon_hu373716790629007bbcaf07e7126958a1_6265_512x512_fill_lanczos_center_3.png</url><title>Biological Swimming</title><link>https://cyhuang514.github.io/tag/biological-swimming/</link></image><item><title>Tadpole Locomotion Simulation</title><link>https://cyhuang514.github.io/project/tadpole/</link><pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate><guid>https://cyhuang514.github.io/project/tadpole/</guid><description>&lt;p>Tadpole swimming was investigated by simulating flow past a rotationally oscillating cylinder with an attached filament using open-source software IBAMR. The cylinder is forced to oscillate as a sinusoidal function of time. The attached filament with different bending rigidity moves passively under the influence of the oscillating cylinder and the surrounding flow field. The Reynolds number is set as 150 based on the diameter of the cylinder.&lt;/p>
+&lt;video controls >
+&lt;source src="https://cyhuang514.github.io/media/videos/tadpole/rigid.mp4" type="video/mp4">
+&lt;/video>
+&lt;p>A rotationally oscillating cylinder with a short and rigid filament.&lt;/p>
+&lt;video controls >
+&lt;source src="https://cyhuang514.github.io/media/videos/tadpole/flexible.mp4" type="video/mp4">
+&lt;/video>
+&lt;p>A rotationally oscillating cylinder with a long and flexible filament.&lt;/p></description></item></channel></rss>

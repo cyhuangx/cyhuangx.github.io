@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Airfoil | Chenyang Huang</title><link>https://cyhuang514.github.io/tag/airfoil/</link><atom:link href="https://cyhuang514.github.io/tag/airfoil/index.xml" rel="self" type="application/rss+xml"/><description>Airfoil</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate><image><url>https://cyhuang514.github.io/media/icon_hu373716790629007bbcaf07e7126958a1_6265_512x512_fill_lanczos_center_3.png</url><title>Airfoil</title><link>https://cyhuang514.github.io/tag/airfoil/</link></image><item><title>Lagrangian Analysis of 2D Airfoils</title><link>https://cyhuang514.github.io/project/airfoil/</link><pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate><guid>https://cyhuang514.github.io/project/airfoil/</guid><description>&lt;p>Velocity fields of flows over NACA 0012 airfoil and Eppler 423 airfoil with different angles of attack are obtained by direct numerical simulation. Attracting LCSs (unstable manifolds) are extracted by calculating backward finite-time Lyapunov exponent (FTLE) fields through integrating the trajectories of a uniform mesh of fluid particles backward in time. We also utilize Lagrangian-averaged vorticity deviation (LAVD) method to acquire coherent vortex boundaries and explore their evolution.&lt;/p>
+&lt;video controls >
+&lt;source src="https://cyhuang514.github.io/media/videos/airfoil/NACA0012-10deg.mp4" type="video/mp4">
+&lt;/video>
+&lt;p>NACA 0012 airfoil, Re=1000, AOA=10 deg, backward FTLE field.&lt;/p>
+&lt;video controls >
+&lt;source src="https://cyhuang514.github.io/media/videos/airfoil/NACA0012-15deg.mp4" type="video/mp4">
+&lt;/video>
+&lt;p>NACA 0012 airfoil, Re=1000, AOA=15 deg, backward FTLE field.&lt;/p>
+&lt;video controls >
+&lt;source src="https://cyhuang514.github.io/media/videos/airfoil/NACA0012-20deg.mp4" type="video/mp4">
+&lt;/video>
+&lt;p>NACA 0012 airfoil, Re=1000, AOA=20 deg, backward FTLE field.&lt;/p>
+&lt;p>
+&lt;figure id="figure-naca-0012-airfoil-re1000-aoa20-deg-lavd-field-the-red-point-denotes-the-vortex-center-and-the-red-closed-curve-denotes-the-vortex-boundary">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="screen reader text" srcset="
+/media/images/airfoil/NACA0012-LAVD_hufb648580c48ea66ab8e23dcf6d9bcebf_181749_238a1c4127fdfa13c0574a1fa44132ec.webp 400w,
+/media/images/airfoil/NACA0012-LAVD_hufb648580c48ea66ab8e23dcf6d9bcebf_181749_73fd49bbc1394815a7284c08bee7be11.webp 760w,
+/media/images/airfoil/NACA0012-LAVD_hufb648580c48ea66ab8e23dcf6d9bcebf_181749_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://cyhuang514.github.io/media/images/airfoil/NACA0012-LAVD_hufb648580c48ea66ab8e23dcf6d9bcebf_181749_238a1c4127fdfa13c0574a1fa44132ec.webp"
+width="760"
+height="386"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+NACA 0012 airfoil, Re=1000, AOA=20 deg, LAVD field. The red point denotes the vortex center and the red closed curve denotes the vortex boundary.
+&lt;/figcaption>&lt;/figure>
+&lt;/p>
+&lt;p>
+&lt;figure id="figure-eppler-423-airfoil-re40000-aoa5-deg-backward-ftle-field">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="screen reader text" srcset="
+/media/images/airfoil/E423-FTLE_hu92c04046da3d4074953cad185e3935e5_108503_a6ba70a67e44b075c0741b59e3d71d18.webp 400w,
+/media/images/airfoil/E423-FTLE_hu92c04046da3d4074953cad185e3935e5_108503_df0605cdfe4276f295169e3d7008a51a.webp 760w,
+/media/images/airfoil/E423-FTLE_hu92c04046da3d4074953cad185e3935e5_108503_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://cyhuang514.github.io/media/images/airfoil/E423-FTLE_hu92c04046da3d4074953cad185e3935e5_108503_a6ba70a67e44b075c0741b59e3d71d18.webp"
+width="760"
+height="397"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Eppler 423 airfoil, Re=40000, AOA=5 deg, backward FTLE field.
+&lt;/figcaption>&lt;/figure>
+&lt;/p></description></item></channel></rss>
