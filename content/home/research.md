@@ -52,7 +52,11 @@ experience:
         Responsibilities include:
 
         * Developed models for low-Reynolds-number flow past a rotationally oscillating cylinder with an attached flexible filament
-        * Simulated the flow based on different immersed boundary frameworks using IBAMR
+        * Simulated the flow based on different immersed boundary frameworks using <a href="https://ibamr.github.io/" target="_blanck">IBAMR</a>
+
+        <a></a>
+
+        <a href="project/tadpole" target="_blanck">View project</a>
 
   - title: Flow Analysis Based on Lagrangian Coherent Structures (Undergraduate Dissertation)
     company: Shanghai Jiao Tong University
