@@ -41,7 +41,7 @@ experience:
         <a href="https://doi.org/10.1017/jfm.2022.631" target="_blanck">View PDF</a>
     external_link: ''
 
-  - title: Immersed Boundary Method and Its Applications
+  - title: Immersed Boundary Method and Applications
     company: Shanghai Jiao Tong University
     company_url: ''
     company_logo: #org-x
@@ -51,8 +51,9 @@ experience:
     description: |2-
         Responsibilities include:
 
-        * Developed models for low-Reynolds-number flow past a rotationally oscillating cylinder with an attached flexible filament
-        * Simulated the flow based on different immersed boundary frameworks using <a href="https://ibamr.github.io/" target="_blanck">IBAMR</a>
+        * Employed a rotationally oscillating cylinder with an attached flexible filament to approximate tadpole locomotion
+        * Developed computational models to simulate this low-Reynolds-number flow based on different immersed boundary frameworks using <a href="https://ibamr.github.io/" target="_blanck">IBAMR</a>
+        * Studied the influence of head swing frequency and tail flexibility on the performance of tadpole propulsion
 
         <a></a>
 
@@ -68,9 +69,9 @@ experience:
     description: |2-
         Responsibilities include:
 
-        * Conducted direct numerical simulations of lid-driven cavity flow and pitzDaily flow
+        * Conducted direct numerical simulations of lid-driven cavity flow and pitzDaily flow at different Reynolds numbers
         * Extracted Lagrangian coherent structures based on both heuristic and analytical methods
-        * Analyzed physical mechanism behind these two flows
+        * Analyzed physical mechanism behind these two flows from the Lagrangian perspective
 
   - title: Flow and Magnetic Structures in a Kinematic ABC-Dynamo
     company: Shanghai Jiao Tong University
