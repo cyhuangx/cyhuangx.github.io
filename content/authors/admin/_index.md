@@ -21,6 +21,8 @@ interests:
   - Fluid Mechanics
   - Computational Fluid Dynamics
   - Lagrangian Coherent Structures
+  - Immersed Boundary Method
+  - Fluid-Structure Interaction
   - Nonlinear Dynamics
 
 # Education to show in About widget
