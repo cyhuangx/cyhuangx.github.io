@@ -6,28 +6,28 @@ title: Chenyang Huang
 superuser: true
 
 # Role/position/tagline
-role: Master's Candidate
+role: Ph.D. Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Shanghai Jiao Tong University
-    url: https://en.sjtu.edu.cn/
+  - name: University of Michigan
+    url: https://umich.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include fluid mechanics, computational fluid dynamics and Lagrangian coherent structures.
+bio: My research interests include fluid mechanics, computational fluid dynamics and artificial intelligence.
 
 # Interests to show in About widget
 interests:
   - Fluid Mechanics
   - Computational Fluid Dynamics
-  - Lagrangian Coherent Structures
-  - Immersed Boundary Method
-  - Fluid-Structure Interaction
-  - Nonlinear Dynamics
+  - AI for Science
 
 # Education to show in About widget
 education:
   courses:
+    - course: PhD in Mechanical Engineering
+      institution: University of Michigan
+      year: 2027 (expected)
     - course: M.Eng. in Naval Architecture and Ocean Engineering
       institution: Shanghai Jiao Tong University
       year: 2023
@@ -70,6 +70,6 @@ email: ''
 highlight_name: true
 ---
 
-Chenyang Huang is a graduate student at the [State Key Laboratory of Ocean Engineering](https://oe.sjtu.edu.cn/EN/), Shanghai Jiao Tong University. He has a strong background in mathematics, fluid mechanics and numerical methods. He is now working on uncovering Lagrangian coherent structures (LCSs) in complex flows through direct numerical simulation (DNS) to explore the underlying physical mechanism.
+Chenyang Huang is a Ph.D. student in [Electrochemical Energy Group](https://www.cmu.edu/me/venkatgroup/) advised by [Prof. Venkat Viswanathan](https://aero.engin.umich.edu/people/viswanathan-venkat/). He is now working on foundation models and operator learning for PDEs.
 
 {{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/cv_chenyang_huang_sjtu.pdf" "newtab" >}}CV{{< /staticref >}}.
