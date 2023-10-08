@@ -25,15 +25,14 @@ content:
   #    captcha: false
 
   # Contact details (edit or remove options as required)
-  email: huangchenyang@sjtu.edu.cn
-  phone: +86 132 6268 5518
+  email: chyhuang@umich.edu
   address:
-    street: A606 Mu-Lan Building, 800 Dongchuan Road, Minhang District
-    #city: 
-    region: Shanghai
-    postcode: '200240'
-    country: China
-    country_code: CN
+    street: François-Xavier Bagnoud Building, 1320 Beal Avenue
+    city: Ann Arbor
+    region: MI
+    postcode: '48109'
+    country: US
+    country_code: US
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
